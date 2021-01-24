@@ -10,8 +10,8 @@ app.get('/', (req, res) => {
 });
 
 const server = https.createServer({
-	key: fs.readFileSync('./key.pem'),
-	cert: fs.readFileSync('./certificate.pem'),
+	key: fs.readFileSync('../certs/key.pem'),
+	cert: fs.readFileSync('../certs/certificate.pem'),
 }, app);
 
 server.listen(3000, () => {
