@@ -32,10 +32,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/laynef/Stack-Overflow-running-HTTPS-localhost">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">HTTPS Localhost</h3>
 
   <p align="center">
